@@ -9,3 +9,5 @@ Created Employee and Customer Login pages using HTML and CSS ·
 Created an Customer Sign-up page using HTML form validation techniques and insert the data in MySQL databases.
 Implemented PHP sessions and cookies to identify the user who logged in to the system
 Environment: PHP, HTML, CSS and MYSQL
+
+Project link: http://eve.kean.edu/~kasturim/CPS5920/
